@@ -201,4 +201,4 @@ if __name__=='__main__':
     #refresh_all_stock("2020-04-20")
     #refresh_stock_day_k("sh.000001", "2020-04-20", "2020-04-27")
     #refresh_all_stock_day_k()
-    refresh_all_stock_day_k_first_time("2006-01-01", "2010-01-01")
+    refresh_all_stock_day_k_first_time("2015-01-01", "2010-01-01")

@@ -171,9 +171,9 @@ def testGetFactor():
     print(data_list)
     bs.logout()
 
-#testAllStock()
+testAllStock()
 #testStockStatus()
-#testDayK()
+testDayK()
 #testDayKNoAdjust()
 #testStockAdjust()
 #testOneStock()
