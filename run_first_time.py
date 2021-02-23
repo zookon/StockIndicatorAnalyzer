@@ -17,7 +17,7 @@ if __name__=='__main__':
         dd = datetime.date.today() + datetime.timedelta(-1)
         current_date = dd.strftime('%Y-%m-%d')
     
-    start_date = "2006-01-01"
+    start_date = "2015-01-01"
 
     data_list = []
     bs.login()
